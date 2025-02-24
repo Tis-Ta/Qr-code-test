@@ -27,10 +27,10 @@ main {
 }
 
 img {
-    border-radius: 0.625rem;
+    border-radius: 1.5rem;
     padding-top: 1em;
     padding-inline: 1em;
-    margin-bottom: 1.6em;
+    margin-bottom: 1.8em;
     display: block;
     width: 100%;
     height: auto;
