@@ -23,6 +23,7 @@ main {
     background-color: #FFF;
     border-radius: 1.25rem;
     margin-inline: 2.5em;
+    box-shadow: 1px 1px 30px #cccccc;
 }
 
 img {
@@ -30,9 +31,9 @@ img {
     width: 100%;
     height: auto;
     border-radius: 1.5em;
-    padding-top: 1em;
-    padding-inline: 1em;
-    margin-bottom: 2em;
+    padding-top: 1.1em;
+    padding-inline: 1.1em;
+    margin-bottom: 1.6em;
 }
 
 .main-title,
@@ -52,5 +53,5 @@ img {
     color: #68778D;
     line-height: 140%;  
     letter-spacing: .2px;
-    margin-bottom: 2.5em;
+    margin-bottom: 2.7em;
 }
